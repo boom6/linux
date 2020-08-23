@@ -11,7 +11,7 @@ data/*
 r/*
 test/*
 **/.vscode/*
-#.vscode
+.vscode
 
 
 
